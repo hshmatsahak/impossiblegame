@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=Level\ class\ (contains\ current\ level)
+comment1.params=
+comment1.target=Level()
+comment1.text=\ When\ the\ level\ object\ is\ created,\ sets\ the\ level\ based\ off\ which\ game\ type\ was\ identifeid\ in\ the\ menu.\r\nWhen\ a\ user\ chooses\ their\ game\ type,\ that\ game\ type\ is\ set\ to\ true,\ otherwise\ it\ is\ false
+comment2.params=
+comment2.target=int\ getLevel()
+comment2.text=Returns\ the\ current\ level
+comment3.params=l
+comment3.target=void\ setLevel(int)
+comment3.text=Sets\ the\ current\ level
+numComments=4

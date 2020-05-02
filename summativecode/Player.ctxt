@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=Player\ class\ (contains\ the\ player\ image\ and\ the\ x\ and\ y\ positions\ of\ the\ player)
+comment1.params=
+comment1.target=Player()
+comment1.text=When\ the\ player\ object\ is\ created,\ acquires\ the\ player\ image\ and\ sets\ the\ player\ position\ based\ on\ the\ current\ level
+comment2.params=
+comment2.target=java.awt.Image\ getPlayer()
+comment2.text=Returns\ the\ player\ image
+comment3.params=x
+comment3.target=void\ setTileX(int)
+comment3.text=Sets\ the\ x\ position\ of\ the\ player
+comment4.params=y
+comment4.target=void\ setTileY(int)
+comment4.text=Sets\ the\ y\ position\ of\ the\ player
+comment5.params=
+comment5.target=int\ getTileX()
+comment5.text=Gets\ the\ x\ position\ of\ the\ player
+comment6.params=
+comment6.target=int\ getTileY()
+comment6.text=Gets\ the\ y\ position\ of\ the\ player
+comment7.params=dx\ dy
+comment7.target=void\ move(int,\ int)
+comment7.text=Moves\ the\ player\ a\ given\ amount\ in\ the\ x\ and\ y\ directions
+numComments=8

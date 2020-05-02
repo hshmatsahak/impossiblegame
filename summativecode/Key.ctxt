@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Key
+comment0.text=Key\ class\ (contains\ the\ key\ image\ and\ x\ and\ y\ positions\ for\ 3\ keys\ used\ in\ level\ 11)
+comment1.params=
+comment1.target=Key()
+comment1.text=When\ the\ key\ object\ is\ created,\ acquires\ the\ key\ image
+comment2.params=
+comment2.target=java.awt.Image\ getKey()
+comment2.text=Returns\ the\ key\ image
+comment3.params=
+comment3.target=int[]\ getKeysLvl11Pos()
+comment3.text=Returns\ the\ positions\ of\ the\ keys\ (for\ level\ 11,\ all\ other\ levels\ either\ don't\ use\ keys\ or\ use\ a\ 1\ or\ 2\ keys,\ so\ lvl\ 11\ is\ the\ only\ level\ where\ we\ decided\ to\ use\ a\ method\ like\ this)
+numComments=4

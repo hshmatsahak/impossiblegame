@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment0.text=Obstacle\ class\ (contains\ the\ obstacle\ image,\ the\ number\ of\ balls\ at\ certain\ levels,\ and\ the\ position\ of\ balls\ on\ level\ 1)
+comment1.params=
+comment1.target=Obstacle()
+comment1.text=When\ the\ obstacle\ object\ is\ created,\ acquires\ the\ obstacle\ image\ and\ sets\ the\ obstacles\ properties\ based\ on\ the\ level
+comment2.params=
+comment2.target=int\ getNumBalls()
+comment2.text=Returns\ the\ number\ of\ balls\ (which\ is\ assigned\ based\ on\ the\ level\ the\ constructor\ acquired)
+comment3.params=
+comment3.target=int[]\ getTilesUp()
+comment3.text=Returns\ the\ Level\ 1\ positions\ of\ balls\ in\ the\ 1,3,5...\ columns\ since\ they\ all\ are\ balls\ that\ are\ aligned
+comment4.params=
+comment4.target=int[]\ getTilesDown()
+comment4.text=Returns\ the\ Level\ 1\ positions\ of\ balls\ in\ the\ 2,4,6...\ columns\ since\ they\ all\ are\ balls\ that\ are\ aligned
+comment5.params=
+comment5.target=java.awt.Image\ getBall()
+comment5.text=Returns\ the\ ball\ image
+numComments=6

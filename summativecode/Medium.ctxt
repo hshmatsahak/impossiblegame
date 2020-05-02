@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Medium
+comment0.text=The\ frame\ where\ everything\ related\ to\ the\ game\ in\ Medium\ mode\ is\ contained
+comment1.params=
+comment1.target=Medium()
+comment1.text=Constructs\ the\ gaming\ frame\ and\ inside\ that\ is\ the\ game\ UI\ and\ the\ maze\ inside\ (the\ maze\ and\ all\ actions\ performed\ in\ there\ is\ done\ using\ using\ DrawMaze)
+numComments=2
